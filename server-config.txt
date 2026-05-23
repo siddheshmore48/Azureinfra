@@ -1,4 +1,5 @@
 windows VM: W003
-Size - D32asv4  
+Size - D32asv4
 Region - central india
 owner - Infra team
+autoshutdown - [true]
