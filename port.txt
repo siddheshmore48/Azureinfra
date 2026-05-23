@@ -1,1 +1,2 @@
 allow 443, 5102git
+deny port 80
