@@ -1,4 +1,4 @@
-windows VM: W003
+windows VM: D006
 Size - D32asv4
 Region - South india
 owner - Infra team
